@@ -2,11 +2,11 @@
 
   <h2><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=About+Component" alt="Typing SVG" /></a></h2>
   <p align="center">
-    <a href="">View Demo</a>
+    <a href="https://bennatbjoern.github.io/_component-about/">View Demo</a>
     &nbsp;·&nbsp;
-    <a href="">Report Bug</a>
+    <a href="https://github.com/BennatBjoern/_component-about/issues">Report Bug</a>
     &nbsp;·&nbsp;
-    <a href="">Request Feature</a>
+    <a href="https://github.com/BennatBjoern/_component-about/issues">Request Feature</a>
   </p>
 </div>
 
@@ -34,7 +34,7 @@
 
 |                |                  |
 | :------------- | :--------------- |
-| Live Site URL: | [Github Pages]() |
+| Live Site URL: | [Github Pages](https://bennatbjoern.github.io/_component-about/) |
 |                |                  |
 
 <br>
